@@ -3,7 +3,7 @@
 require_relative "lib/rulers/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "rulers"
+  spec.name = "rulers_adriennhem"
   spec.version = Rulers::VERSION
   spec.authors = ["Adrien Nhem "]
   spec.email = ["adriennhem@users.noreply.github.com"]
