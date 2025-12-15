@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rulers (0.1.0)
+    rulers_adriennhem (0.1.0)
       rack
 
 GEM
@@ -36,7 +36,7 @@ PLATFORMS
 DEPENDENCIES
   irb
   rake (~> 13.0)
-  rulers!
+  rulers_adriennhem!
 
 BUNDLED WITH
    2.6.9
